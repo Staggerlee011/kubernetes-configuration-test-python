@@ -60,7 +60,7 @@ export AWS_PROFILE=<profile>
 kubectx <cluster>
 ```
 
-- Run all tests from `tests/eks`:
+- Run all tests
 
 ```bash
 pytest
